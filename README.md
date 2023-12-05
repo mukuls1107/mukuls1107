@@ -11,7 +11,7 @@
 
 ## 🔧 Tools I Use
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,c,c++,git,github" />
   </a>
