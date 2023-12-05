@@ -24,7 +24,7 @@
 ## Connect with me:
 
 <p align="left">
-  <a href="https://twitter.com/mukulownsyou" target="blank"><img align="center" src="https://github.com/mukul1107/mukul1107/assets/80405570/6a221f14-e13f-4f69-81f4-84fba8aacd8c" alt="mukulownsyou"  height="25%" /></a>
+  <a href="https://twitter.com/mukulownsyou" target="blank"><img align="center" src="https://github.com/mukul1107/mukul1107/assets/80405570/6a221f14-e13f-4f69-81f4-84fba8aacd8c" alt="mukulownsyou"  height="15%" /></a>
   <a href="https://linkedin.com/in/mukul1107" target="blank"><img align="center" src="https://github.com/mukul1107/mukul1107/assets/80405570/b4e33148-d4e2-4d31-a638-9d1e1f69fbb0" alt="mukul1107" height="25%"  /></a>
   <a href="https://instagram.com/mukulownsyou" target="blank"><img align="center" src="https://github.com/mukul1107/mukul1107/assets/80405570/930caf13-aa8d-4d05-9493-607d82a8c288"
  alt="mukulownsyou"  height="25%" /></a>
