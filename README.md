@@ -12,15 +12,8 @@
 ## 🔧 Tools I Use
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tools/visual-studio-code.svg" alt="Visual Studio Code" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tools/html.svg" alt="HTML" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tools/css.svg" alt="CSS" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tools/javascript.svg" alt="JavaScript" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tools/c.svg" alt="C" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tools/cpp.svg" alt="C++" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tools/github.svg" alt="GitHub" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tools/bootstrap.svg" alt="Bootstrap" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tools/fontawesome.svg" alt="Font Awesome" height="30" width="40" />
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cpp,c,git,vscode)](https://skills.thijs.gg)
+
 </p>
 
 - 🔭 I’m currently working on **this page.**
