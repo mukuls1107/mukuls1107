@@ -1,4 +1,3 @@
-# Mukul Singh - GitHub Profile
 
 <h1 align="center">Hi 👋, I'm Mukul Singh</h1>
 <h3 align="center">I'm a 19-year-old developer based in India 🇮🇳. I am from Jaipur Engineering College and Research Center ⛪.</h3>
