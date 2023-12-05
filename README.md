@@ -11,9 +11,10 @@
 
 ## 🔧 Tools I Use
 
-<p align="left">
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cpp,c,git,vscode)](https://skills.thijs.gg)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,c,c++,git,github" />
+  </a>
 </p>
 
 - 🔭 I’m currently working on **this page.**
