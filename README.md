@@ -1,8 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Mukul Singh</h1>
-- <h3 align="left">I'm 19-year-old developer based in India 🇮🇳. </h3>
-- <h3> Learning Full Stack Web Development from JECRC University 🏫.</h3>
-
+# Hi 👋, I'm Mukul Singh
 - ### I'm 19-year old developer based in India. 
 - ### Learning Full Stack Web Development from JECRC University 🏫.
 
