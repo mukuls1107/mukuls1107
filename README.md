@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **this page.**
 - 🌱 I’m currently learning **JavaScript and C++.**
-- 📫 How to reach me: **mukul.110705@outlook.com**
+- 📫 How to reach me: **mukul.110705@gmail.com**
 
 ## Connect with me:
 
