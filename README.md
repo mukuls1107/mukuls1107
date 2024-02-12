@@ -29,6 +29,9 @@
 
 [![An image of @mukul1107's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukul1107)](https://holopin.io/@mukul1107)
 
+### Wakatime Metrics
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukul1107&show_icons=true&locale=en&layout=compact" alt="mukul1107" /></p>
 
