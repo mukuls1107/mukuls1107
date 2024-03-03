@@ -31,7 +31,7 @@
 
 ### Wakatime Metrics
 <!--START_SECTION:waka-->
-<img src="https://wakatime.com/share/@018d87a9-0d84-43b4-9a41-022878ad66f3/ba7c2d13-c83d-4b04-9bd4-2306390dc15b.svg">
+<img src="https://wakatime.com/share/@018d87a9-0d84-43b4-9a41-022878ad66f3/ba7c2d13-c83d-4b04-9bd4-2306390dc15b.svg" height=400>
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukul1107&show_icons=true&locale=en&layout=compact" alt="mukul1107" /></p>
