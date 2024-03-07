@@ -24,12 +24,13 @@
 > - [Instagram](https://instagram.com/mukulownsyou)
 > - [LinkedIn](https://linkedin.com/in/mukul1107)
 
-/*
+<!--
 ### My HoloPin Rewards
 
 
 [![An image of @mukul1107's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukul1107)](https://holopin.io/@mukul1107)
 */
+-->
 ### Wakatime Metrics
 <!--START_SECTION:waka-->
 <img src="https://wakatime.com/share/@018d87a9-0d84-43b4-9a41-022878ad66f3/ba7c2d13-c83d-4b04-9bd4-2306390dc15b.svg" height=400>
