@@ -15,7 +15,7 @@
 </p>
 
 - 🔭 I’m currently working on **this page.**
-- 🌱 I’m currently learning **JavaScript and C++.**
+- 🌱 I’m currently learning **Python and C++.**
 - 📫 How to reach me: **mukul.110705@gmail.com**
 
 ## Connect with me:
