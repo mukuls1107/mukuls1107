@@ -8,15 +8,15 @@
 
 ## 🔧 Tools I Use
 
+  ### Language:
 <p align="left">
-  ### Language
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,py,nodejs,react,c,cpp,git,github" />
   </a>
 </p>
 
+  ### Communication:
 <p align= "left">
-  ### Communication
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=discord,notion,linkedin" />
 </p>
