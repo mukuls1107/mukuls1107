@@ -11,7 +11,8 @@
   ### Language:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,js,py,nodejs,react,html,css,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,js,py,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,git,github" />
   </a>
 </p>
 
