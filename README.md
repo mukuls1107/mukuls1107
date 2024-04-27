@@ -9,10 +9,16 @@
 ## 🔧 Tools I Use
 
 <p align="left">
+  ### Language
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,py,nodejs,react,c,cpp,git,github" />
-    <img src="https://skillicons.dev/icons?i=discord,notion,linkedin" />
   </a>
+</p>
+
+<p align= "left">
+  ### Communication
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=discord,notion,linkedin" />
 </p>
 
 - 🔭 I’m currently working on **this page.**
