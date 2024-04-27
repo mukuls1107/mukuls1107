@@ -11,14 +11,14 @@
   ### Language:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,py,nodejs,react,c,cpp,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,js,py,nodejs,react,html,css,git,github" />
   </a>
 </p>
 
   ### Communication:
 <p align= "left">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=discord,notion,linkedin" />
+      <img src="https://skillicons.dev/icons?i=discord,notion,linkedin,stackoverflow,twitter" />
 </p>
 
 - 🔭 I’m currently working on **this page.**
