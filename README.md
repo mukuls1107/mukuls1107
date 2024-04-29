@@ -13,7 +13,6 @@
   <a href="https://skillicons.dev">
     <h4> Programming Language: </h4>
     <img src="https://skillicons.dev/icons?i=c,cpp,vscode,py,nodejs" />
-    <br/>
     <h4> Frontend: </h4>
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
   </a>
