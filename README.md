@@ -15,6 +15,8 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,vscode,py,nodejs" />
     <h4> Frontend: </h4>
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+    <h4> Version Control: </h4>
+     <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
 
