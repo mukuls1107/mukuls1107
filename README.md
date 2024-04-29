@@ -11,9 +11,11 @@
   ### Language:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,js,py,nodejs" />
+    <h4> Programming Language: </h4>
+    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,py,nodejs" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=react,html,css,git,github" />
+    <h4> Frontend: </h4>
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
   </a>
 </p>
 
