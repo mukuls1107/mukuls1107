@@ -12,11 +12,11 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <h4> Programming Language: </h4>
-    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,py,nodejs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,nodejs" />
     <h4> Frontend: </h4>
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
-    <h4> Version Control: </h4>
-     <img src="https://skillicons.dev/icons?i=git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js," />
+    <h4> Tools: </h4>
+     <img src="https://skillicons.dev/icons?i=vscode,git,github" />
   </a>
 </p>
 
