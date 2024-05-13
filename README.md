@@ -29,6 +29,7 @@
 - 🔭 I’m currently working on **this page.**
 - 🌱 I’m currently learning **Python and C++.**
 - 📫 How to reach me: **mukul.110705@gmail.com**
+- ⛑️ Check My Resume here: **[Resume](https://github.com/mukul1107/Resume)**
 
 ## Connect with me:
 
