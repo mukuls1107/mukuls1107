@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Mukul Singh
-- ### I'm 19-year old developer based in India. 
+- ### I'm a developer based in India. 
 - ### Pursuing Full Stack Web Development from JECRC University 🏫.
 
 > <p align="left" style="inline"> <img src="https://komarev.com/ghpvc/?username=mukul1107&label=Profile%20views&color=0e75b6&style=flat" alt="mukul1107" /> </p>
