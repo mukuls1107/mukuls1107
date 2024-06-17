@@ -14,9 +14,9 @@
     <h4> Programming Language: </h4>
     <img src="https://skillicons.dev/icons?i=c,cpp,py,nodejs" />
     <h4> Frontend: </h4>
-    <img src="https://skillicons.dev/icons?i=html,css,js," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,express" />
     <h4> Tools: </h4>
-     <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+     <img src="https://skillicons.dev/icons?i=vscode,postman,mongo,git,github" />
   </a>
 </p>
 
