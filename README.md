@@ -9,7 +9,7 @@
 ## 🔧 Tools I Use
 
   ### Language:
-<p align="left">
+<p align="left" style="display: inline;">
   <a href="https://skillicons.dev">
     <h4> Programming Language: </h4>
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js" />
