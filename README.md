@@ -7,20 +7,9 @@
 > <p align="left" style="inline"> <a href="https://twitter.com/mukulownsyou" target="blank"><img src="https://img.shields.io/twitter/follow/mukulownsyou?style=%26style%3Dfor-the-badge&logo=twitter" alt="mukulownsyou" /></a> </p>
 
 ## 🔧 Tools I Use
-
-  ### Language:
 <p align="left" style="display: inline;">
   <a href="https://skillicons.dev">
-    <h4> Programming Language: </h4>
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js" />
-    <h4> Frontend: </h4>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-    <h4> Backend: </h4>
-     <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql" />
-    <h4> Tools: </h4>
-     <img src="https://skillicons.dev/icons?i=vscode,webstorm,postman,git,github,webpack,npm" />
-    <h4> OS: </h4>
-     <img src="https://skillicons.dev/icons?i=windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,js,react,nodejs,express,mongo,mysql,vscode,webstorm,postman,git,github,webpack,npm,windows" />
   </a>
 </p>
 
