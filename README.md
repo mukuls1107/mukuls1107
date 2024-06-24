@@ -16,9 +16,9 @@
     <h4> Frontend: </h4>
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
     <h4> Backend: </h4>
-     <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,sql" />
+     <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql" />
     <h4> Tools: </h4>
-     <img src="https://skillicons.dev/icons?i=vscode,postman,mongo,git,github,webpack" />
+     <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,webpack" />
   </a>
 </p>
 
