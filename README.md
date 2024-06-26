@@ -31,7 +31,7 @@
 - 🔭 I’m currently working on **this page.**
 - 🌱 I’m currently learning **Python and C++.**
 - 📫 How to reach me: **mukul.110705@gmail.com**
-- ⛑️ Check My Resume here: **[Resume](https://github.com/mukul1107/Resume)**
+- ⛑️ Check My Resume here: **[Resume](https://github.com/mukuls1107/Resume)**
 
 ## Connect with me:
 
@@ -46,12 +46,3 @@
 [![An image of @mukul1107's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukul1107)](https://holopin.io/@mukul1107)
 */
 -->
-### Wakatime Metrics
-<!--START_SECTION:waka-->
-<img src="https://wakatime.com/share/@018d87a9-0d84-43b4-9a41-022878ad66f3/ba7c2d13-c83d-4b04-9bd4-2306390dc15b.svg" height=400>
-<!--END_SECTION:waka-->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukul1107&show_icons=true&locale=en&layout=compact" alt="mukul1107" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukul1107&show_icons=true&locale=en" alt="mukul1107" /></p>
-
