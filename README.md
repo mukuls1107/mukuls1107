@@ -16,7 +16,7 @@
     <h4> Backend: </h4>
      <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql" />
     <h4> Tools: </h4>
-     <img src="https://skillicons.dev/icons?i=postman,git,github,webpack,npm" />
+     <img src="https://skillicons.dev/icons?i=postman,git,github,webpack,vite,npm" />
     <h4> OS & IDE: </h4>
      <img src="https://skillicons.dev/icons?i=windows,vscode,webstorm" />
   </a>
