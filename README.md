@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Mukul Singh
-- ### I'm a developer based in India. 
-- ### Pursuing Full Stack Web Development from JECRC University 🏫.
+- Passionate developer based in India. 
+- Pursuing Full Stack Web Development from JECRC University 🏫.
 
 > <p align="left" style="inline"> <img src="https://komarev.com/ghpvc/?username=mukul1107&label=Profile%20views&color=0e75b6&style=flat" alt="mukul1107" /> </p>
 > <p align="left" style="inline"> <a href="https://twitter.com/mukulownsyou" target="blank"><img src="https://img.shields.io/twitter/follow/mukulownsyou?style=social" alt="mukulownsyou" /></a> </p>
@@ -29,7 +29,7 @@
 </p>
 
 - 🔭 I’m currently working on **this page.**
-- 🌱 I’m currently learning **Python and C++.**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Dart, Golang**
 - 📫 How to reach me: **mukul.110705@gmail.com**
 - ⛑️ Check My Resume here: **[Resume](https://github.com/mukuls1107/Resume)**
 
