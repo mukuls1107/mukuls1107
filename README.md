@@ -1,48 +1,60 @@
+<table>
+  <tr>
+    <td>
+      # Hi 👋, I'm Mukul Singh
+      - Passionate developer based in India. 
+      - Pursuing Full Stack Web Development from JECRC University 🏫.
 
-# Hi 👋, I'm Mukul Singh
-- Passionate developer based in India. 
-- Pursuing Full Stack Web Development from JECRC University 🏫.
+      <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=mukul1107&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+        <a href="https://twitter.com/mukulownsyou" target="_blank">
+          <img src="https://img.shields.io/twitter/follow/mukulownsyou?style=social" alt="Twitter Follow" />
+        </a>
+      </p>
+      
+      - 🔭 I’m currently working on **this page.**
+      - 🌱 I’m currently learning **JavaScript, TypeScript, Dart, Golang**
+      - 📫 How to reach me: **mukul.110705@gmail.com**
+      - ⛑️ Check My Resume here: **[Resume](https://github.com/mukuls1107/Resume)**
+    </td>
+    <td>
+      ## 🔧 Tools I Use
 
-> <p align="left" style="inline"> <img src="https://komarev.com/ghpvc/?username=mukul1107&label=Profile%20views&color=0e75b6&style=flat" alt="mukul1107" /> </p>
-> <p align="left" style="inline"> <a href="https://twitter.com/mukulownsyou" target="blank"><img src="https://img.shields.io/twitter/follow/mukulownsyou?style=social" alt="mukulownsyou" /></a> </p>
+      **Programming Languages**
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=c,cpp,py,js" alt="Programming Languages" />
+      </p>
 
-## 🔧 Tools I Use
-<p align="left">
-  <a href="https://skillicons.dev">
-    <h4> Programming Language: </h4>
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js" />
-    <h4> Frontend: </h4>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-    <h4> Backend: </h4>
-     <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql" />
-    <h4> Tools: </h4>
-     <img src="https://skillicons.dev/icons?i=postman,git,github,webpack,vite,npm" />
-    <h4> OS & IDE: </h4>
-     <img src="https://skillicons.dev/icons?i=windows,vscode,webstorm" />
-  </a>
-</p>
+      **Frontend**
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend" />
+      </p>
 
-  ### Communication:
-<p align= "left">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=discord,notion,linkedin,stackoverflow,twitter" />
-</p>
+      **Backend**
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql" alt="Backend" />
+      </p>
 
-- 🔭 I’m currently working on **this page.**
-- 🌱 I’m currently learning **JavaScript, TypeScript, Dart, Golang**
-- 📫 How to reach me: **mukul.110705@gmail.com**
-- ⛑️ Check My Resume here: **[Resume](https://github.com/mukuls1107/Resume)**
+      **Tools**
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=postman,git,github,webpack,vite,npm" alt="Tools" />
+      </p>
 
-## Connect with me:
+      **OS & IDE**
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=windows,vscode,webstorm" alt="OS & IDE" />
+      </p>
 
-> - [Twitter](https://twitter.com/mukulownsyou)
-> - [Instagram](https://instagram.com/mukulownsyou)
-> - [LinkedIn](https://linkedin.com/in/mukul1107)
+      **Communication**
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=discord,notion,linkedin,stackoverflow,twitter" alt="Communication" />
+      </p>
 
-<!--
-### My HoloPin Rewards
+      ## Connect with me:
 
-
-[![An image of @mukul1107's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukul1107)](https://holopin.io/@mukul1107)
-*/
--->
+      - [Twitter](https://twitter.com/mukulownsyou)
+      - [Instagram](https://instagram.com/mukulownsyou)
+      - [LinkedIn](https://linkedin.com/in/mukul1107)
+    </td>
+  </tr>
+</table>
