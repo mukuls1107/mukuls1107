@@ -9,7 +9,7 @@ Passionate developer based in India. Pursuing Full Stack Web Development from JE
 
 | **Category**     | **Details**                                                   |
 |------------------|---------------------------------------------------------------|
-| **Languages**    | ![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py,js) |
+| **Languages**    | ![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py,js,go) |
 | **Frontend**     | ![Frontend](https://skillicons.dev/icons?i=html,css,js,react) |
 | **Backend**      | ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql) |
 | **Tools**        | ![Tools](https://skillicons.dev/icons?i=postman,git,github,webpack,vite,npm) |
