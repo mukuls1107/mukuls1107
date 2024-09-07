@@ -25,6 +25,9 @@ Passionate developer based in India. Pursuing Full Stack Web Development from JE
 - Email: [mukul.110705@gmail.com](mailto:mukul.110705@gmail.com)
 - Resume: [Resume](https://github.com/mukuls1107/Resume)
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/587517896133967884)](https://discord.com/users/587517896133967884)
+
 ## Connect with me
 
 - [Twitter](https://twitter.com/mukulownsyou)  
