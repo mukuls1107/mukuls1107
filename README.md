@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mukul Singh
 
-Passionate developer based in India. Pursuing Full Stack Web Development from JECRC University 🏫.
+Passionate developer based in India.
 
 ![Profile views](https://komarev.com/ghpvc/?username=mukul1107&label=Profile%20views&color=0e75b6&style=flat) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mukulownsyou?style=social)](https://twitter.com/mukulownsyou)
