@@ -9,9 +9,9 @@ Passionate developer based in India.
 
 | **Category**     | **Details**                                                   |
 |------------------|---------------------------------------------------------------|
-| **Languages**    | ![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py,js,go) |
-| **Frontend**     | ![Frontend](https://skillicons.dev/icons?i=html,css,js,react) |
-| **Backend**      | ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql) |
+| **Languages**    | ![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py,js.ts,go,dart,java) |
+| **Frontend**     | ![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,shard) |
+| **Backend**      | ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,MySQL,mariadb,docker,k8s) |
 | **Tools**        | ![Tools](https://skillicons.dev/icons?i=postman,git,github,webpack,vite,npm) |
 | **OS & IDE**     | ![OS & IDE](https://skillicons.dev/icons?i=windows,vscode,webstorm) |
 
