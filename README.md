@@ -9,11 +9,11 @@ Passionate developer based in India.
 
 | **Category**     | **Details**                                                   |
 |------------------|---------------------------------------------------------------|
-| **Languages**    | ![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py,js,ts,go,dart,java) |
-| **Frontend**     | ![Frontend](https://skillicons.dev/icons?i=html,CSS,scss,mui,,js,react,tailwind,shard) |
-| **Backend**      | ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,MySQL,mariadb,docker,k8s,heroku) |
-| **Tools**        | ![Tools](https://skillicons.dev/icons?i=postman,git,github,webpack,vite,npm.jest,graphql) |
-| **OS & IDE**     | ![OS & IDE](https://skillicons.dev/icons?i=windows,vscode,webstorm) |
+| **Languages**    | ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,py,js,ts,go,dart) |
+| **Frontend**     | ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,mui,js,react,tailwind,shardcn) |
+| **Backend**      | ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongo,mysql,mariadb,docker,k8s,heroku) |
+| **Tools**        | ![Tools](https://go-skill-icons.vercel.app/api/icons?i=postman,git,github,webpack,vite,npm,jest,graphql) |
+| **OS & IDE**     | ![OS & IDE](https://go-skill-icons.vercel.app/api/icons?i=windows,vscode,webstorm) |
 
 ## 🌱 What I’m Up To
 
@@ -23,7 +23,6 @@ Passionate developer based in India.
 ## Contact
 
 - Email: [mukul.110705@gmail.com](mailto:mukul.110705@gmail.com)
-- Resume: [Resume](https://github.com/mukuls1107/Resume)
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/587517896133967884)](https://discord.com/users/587517896133967884)
@@ -32,4 +31,4 @@ Passionate developer based in India.
 
 - [Twitter](https://twitter.com/mukulownsyou)  
 - [Instagram](https://instagram.com/mukulownsyou)  
-- [LinkedIn](https://linkedin.com/in/mukul1107)
+
