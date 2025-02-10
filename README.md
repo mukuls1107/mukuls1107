@@ -9,10 +9,10 @@ Passionate developer based in India.
 
 | **Category**     | **Details**                                                   |
 |------------------|---------------------------------------------------------------|
-| **Languages**    | ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,py,js,ts,go,dart) |
-| **Frontend**     | ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,mui,js,react,tailwind,shardcn) |
-| **Backend**      | ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongo,mysql,mariadb,docker,k8s,heroku) |
-| **Tools**        | ![Tools](https://go-skill-icons.vercel.app/api/icons?i=postman,git,github,webpack,vite,npm,jest,api,graphql,fastapi) |
+| **Languages**    | ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,py,js,go,dart) |
+| **Frontend**     | ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,mui,js,react,tailwind) |
+| **Backend**      | ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongo,mysql,mariadb,render) |
+| **Tools**        | ![Tools](https://go-skill-icons.vercel.app/api/icons?i=postman,git,github,webpack,vite,npm,jest,api) |
 | **OS & IDE**     | ![OS & IDE](https://go-skill-icons.vercel.app/api/icons?i=windows,vscode,webstorm) |
 
 ## 🌱 What I’m Up To
