@@ -9,7 +9,7 @@ Passionate developer based in India.
 
 | **Category**     | **Details**                                                   |
 |------------------|---------------------------------------------------------------|
-| **Languages**    | ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,py,js,go,dart) |
+| **Languages**    | ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,py,js) |
 | **Frontend**     | ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,mui,js,react,tailwind) |
 | **Backend**      | ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongo,mysql,mariadb,render) |
 | **Tools**        | ![Tools](https://go-skill-icons.vercel.app/api/icons?i=postman,git,github,webpack,vite,npm,jest,api) |
@@ -18,7 +18,7 @@ Passionate developer based in India.
 ## 🌱 What I’m Up To
 
 - 🔭 **Currently Working On:** *Haku - The Realm Legends*  
-- 🌱 **Learning:** *JavaScript, TypeScript, Dart, Golang*
+- 🌱 **Learning:** *TypeScript, Golang*
 
 ## Contact
 
