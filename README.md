@@ -9,7 +9,7 @@ Passionate developer based in India.
 
 | **Category**     | **Details**                                                   |
 |------------------|---------------------------------------------------------------|
-| **Languages**    | ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,py,js) |
+| **Languages**    | ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,py,js,ts) |
 | **Frontend**     | ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,mui,js,react,tailwind) |
 | **Backend**      | ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongo,mysql,mariadb,render) |
 | **Tools**        | ![Tools](https://go-skill-icons.vercel.app/api/icons?i=postman,git,github,webpack,vite,npm,jest,api) |
