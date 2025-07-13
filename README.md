@@ -74,7 +74,7 @@ Passionate developer based in India.
 
 ## 🌱 What I’m Up To
 
-- 🔭 **Currently Working On:** *File Sharing API*  
+- 🔭 **Currently Working On:** *Subconscious 0*  
 - 🌱 **Learning:** *TypeScript, DiscordAPI*
 
 ## Contact
