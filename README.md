@@ -7,7 +7,7 @@ Hi 👋 My name is Mukul Singh
 I'm a final year student trying to get into the world of backend systems and open source
 ----------------------------------------------------------------------------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India 
 * ✉️  You can contact me at [mukul.110705@gmail.com](mailto:mukul.110705@gmail.com)
 
 <a href="https://www.x.com/mukulownsyou" target="_blank" rel="noreferrer"><img
@@ -28,7 +28,7 @@ src="https://img.shields.io/twitter/follow/mukulownsyou?logo=twitter&style=for-t
 -->
 # Hi 👋, I'm Mukul Singh
 
-Passionate developer based in India.
+Passionate developer based in India 🇮🇳
 
 ![Profile views](https://komarev.com/ghpvc/?username=mukul1107&label=Profile%20views&color=0e75b6&style=flat) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mukulownsyou?style=social)](https://twitter.com/mukulownsyou)
