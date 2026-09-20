@@ -11,7 +11,8 @@ currently working on [base0.tech](https://base0.tech) — contracts, e-signing, 
 </td>
 <td valign="center" align="right" width="45%">
 
-<img src="ascii-art.png" width="220" />
+
+[![Spotify](https://spotify-swart-mu.vercel.app/api/now-playing)](https://open.spotify.com)
 
 </td>
 </tr>
@@ -31,10 +32,9 @@ git · linux · vite
 
 
 
-**stats**
 
-![](https://github-readme-stats.vercel.app/api?username=mukuls1107&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=888888&text_color=888888&hide=stars,prs,issues,contribs&count_private=true)
 
+<img src="ascii-art.png" width="220" />
 ---
 
 **find me**
