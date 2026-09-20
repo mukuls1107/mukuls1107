@@ -28,13 +28,7 @@ node.js · express · postgresql · mongodb
 git · linux · vite
 ```
 
----
 
-
-
-
-
-<img src="ascii-art.png" width="220" />
 ---
 
 **find me**
